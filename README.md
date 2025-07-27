@@ -4,7 +4,7 @@ Welcome to my public learning journal where I document everything I learn about 
 
 This site is built using **HTML, CSS, and JavaScript**, and hosted freely using **GitHub Pages**.
 
-📍 **Live Site**: [https://kumarnis89.github.io/ai-ml-journey](https://kumarnis89.github.io/ai-ml-journey)
+📍 **Live Site**: [https://kumarnis89.github.io/ai-journey](https://kumarnis89.github.io/ai-journey)
 
 ---
 
